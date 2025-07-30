@@ -1,6 +1,5 @@
 
 
-
 Chatbot is a simple Python application built using Tkinter for creating a basic conversational interface.
 
 Features
